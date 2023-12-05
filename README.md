@@ -5,3 +5,4 @@
 This is the final project of the course "Data Processing with Python" by Nguyễn Tiến Khôi.
 - Dữ liệu dùng để phân tích gồm hai file ESPN.csv và ESPN.npy được lưu trong mục data.
 - Xem toàn bộ code phân tích dữ liệu tại analyze.ipynb
+Xem bản gốc ở https://github.com/IAI-UET/final-project-22022658NguyenTienKhoi
